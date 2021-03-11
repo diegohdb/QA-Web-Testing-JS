@@ -1,0 +1,23 @@
+{
+  "name": "QA-Web-Testing-JS",
+  "version": "1.0.0",
+  "description": "Functional tests on blog to practice Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegohdb/QA-Web-Testing-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegohdb/QA-Web-Testing-JS/issues"
+  },
+  "homepage": "https://github.com/diegohdb/QA-Web-Testing-JS#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
